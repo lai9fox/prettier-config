@@ -1,0 +1,26 @@
+{
+  "name": "@lai9fox/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier config used by lai9fox",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config"
+  ],
+  "author": "lai9fox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lai9fox/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lai9fox/prettier-config/issues"
+  },
+  "homepage": "https://github.com/lai9fox/prettier-config#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "@lai9fox/eslint-config": "^1.0.0",
+    "prettier": "^3.1.1"
+  }
+}
